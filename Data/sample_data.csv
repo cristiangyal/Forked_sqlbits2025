@@ -1,0 +1,5 @@
+﻿"CustomerID,Name,Email,Country"
+"1,Alice,alice@example.com,UK"
+"2,Bob,,USA"
+"3,,charlie@example.com,Canada"
+"4,Dave,dave@example.com,"
